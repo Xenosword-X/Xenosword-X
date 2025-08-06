@@ -5,8 +5,8 @@
 ## 🔧 技術技能
 - HTML / CSS / SCSS / JavaScript
 - Vue 3 / Option API / Composition API / Pinia / Bootstrap 5
-- Vue cli / vite 打包工具
-- RESTful API 串接、表單驗證、Git 版本控制
+- Vue cli / vite 前端環境建構工具
+- RESTful API 串接、表單驗證、Git 版本控制基礎
 
 ## 🛠 作品展示
 
