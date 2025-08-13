@@ -12,7 +12,7 @@
 
 | 專案名稱 | 功能簡介 | 線上連結 |
 |---------|----------|----------|
-| 🛒 GameZone 電商網站 | 商品管理、購物車、訂單流程、後台功能 | [Demo](https://xenosword-x.github.io/final_project/) |
+| 🛒 GameZone 電商網站 | 商品管理、購物車、訂單流程、後台功能 | [原始碼](https://github.com/Xenosword-X/final_project)) | [Demo](https://xenosword-x.github.io/final_project/) |
 | ✅ TodoList 系統 | 使用者登入、代辦事項管理、API 串接 | [Demo](https://xenosword-x.github.io/vite-project/) |
 | 🔍 商品比價網站 | 商品過濾與排序、API 串接 | [Demo](https://xenosword-x.github.io/APIFilter_project/) |
 
