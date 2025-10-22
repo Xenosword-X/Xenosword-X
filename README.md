@@ -18,7 +18,6 @@
 |---------|----------|----------|----------|
 | 🛒 GameZone 電商網站 | 商品管理、購物車、訂單流程、後台功能 | [code](https://github.com/Xenosword-X/GameStore) | [Demo](https://xenosword-x.github.io/GameStore/) |
 | ✅ 多語系 TodoList | 使用者登入、代辦事項管理、API 串接 | [code](https://github.com/Xenosword-X/vite-project) | [Demo](https://xenosword-x.github.io/vite-project/) |
-| 🔍 商品價格排序網站 | 商品過濾與排序、API 串接 | [code](https://github.com/Xenosword-X/APIFilter_project) | [Demo](https://xenosword-x.github.io/APIFilter_project/) |
 
 ---
 
