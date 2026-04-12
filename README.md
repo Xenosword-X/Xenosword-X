@@ -16,7 +16,7 @@
 
 | 專案名稱 | 功能簡介 | 原始碼 | 線上連結 |
 |---------|----------|----------|----------|
-| 🛒 GameZone 電商網站 | 商品管理、購物車、訂單流程、後台功能 | [code](https://github.com/Xenosword-X/GameStore) | [Demo](https://xenosword-x.github.io/GameStore/) |
+| 🎮 Nuxt Gamestore 電商網站 | 商品管理、購物車、訂單流程、會員系統、後台功能 | [code](https://github.com/Xenosword-X/nuxt-gamestore) | [Demo](https://nuxt-gamestore.pages.dev) |
 | ✅ 多語系 TodoList | 使用者登入、代辦事項管理、API 串接 | [code](https://github.com/Xenosword-X/vite-project) | [Demo](https://xenosword-x.github.io/vite-project/) |
 
 ---
