@@ -1,6 +1,6 @@
 # 👋 Hi，我是WOOD
 
-專職不久的前端工程師，熟悉 Vue / Nuxt 等前端開發流程與 API 串接整合。
+從MIS轉職的前端工程師，熟悉 Vue / Nuxt 等前端開發流程與 API 串接整合。
 
 ## 🔧 技術技能
 - 熟悉 HTML / CSS / JavaScript(ES6+)
