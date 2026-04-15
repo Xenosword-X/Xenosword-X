@@ -17,7 +17,7 @@
 | 專案名稱 | 功能簡介 | 原始碼 | 線上連結 |
 |---------|----------|----------|----------|
 | 🎮 Nuxt Gamestore 電商網站 | 商品管理、購物車、訂單流程、會員系統、後台功能 | [code](https://github.com/Xenosword-X/nuxt-gamestore) | [Demo](https://nuxt-gamestore.pages.dev) |
-| 🔍 Nuxt SEO Analyzer | 繁體中文 SEO 深度分析工具、AI 自動健診報告、SSE 即時串流 | [code](https://github.com/Xenosword-X/nuxt-seo-analyzer) | - |
+| 🔍 Nuxt SEO Analyzer | 繁體中文 SEO 深度分析工具、AI 自動健診報告、SSE 即時串流 | [code](https://github.com/Xenosword-X/nuxt-seo-analyzer) | [Demo](https://nuxt-seo-analyzer.pages.dev) |
 
 ---
 
