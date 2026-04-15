@@ -11,7 +11,7 @@
 - 了解 vite 前端環境建構工具
 - 熟悉 RESTful API 串接、表單驗證等套件應用
 - 了解 Git 版本控制基礎
-- 了解 Claude code 與相關skill技能搭配開發，快速將產品落地
+- 了解 Claude code、Github copilot與相關skill搭配開發，快速將產品落地
 
 ## 🛠 專案展示
 
