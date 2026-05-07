@@ -18,7 +18,7 @@
 | 專案名稱 | 功能簡介 | 原始碼 | 線上連結 |
 |---------|----------|----------|----------|
 | 🔍 Nuxt SEO Analyzer | 繁體中文 SEO 深度分析工具、AI 自動健診報告、SSE 即時串流 | [code](https://github.com/Xenosword-X/nuxt-seo-analyzer) | [Demo](https://nuxt-seo-analyzer.pages.dev) |
-| 📚 FE Interview Hub | 前端面試題庫、涵蓋常見考題整理，並有 AI 答題與 AI 面試功能幫助使用者練習 | [code](https://github.com/Xenosword-X/FE-Interview-Hub) | [Demo](https://fe-interview-hub.pages.dev/) |
+| 📚 Engineer Interview Hub | 軟體工程師面試題庫、涵蓋常見考題整理，並有 AI 答題與 AI 面試功能幫助使用者練習 | [code](https://github.com/Xenosword-X/Engineer-Interview-Hub) | [Demo](https://engineer-interview-hub.pages.dev) |
 
 ---
 
